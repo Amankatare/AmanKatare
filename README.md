@@ -11,12 +11,6 @@
 <h2 align="left">Hi 👋! My name is Aman.<br><br>"🔮 Embracing the art of coding | 🌟 Transforming caffeine into code | 📚 Lifelong learner on a digital odyssey | ⚡️ Building solutions, one algorithm at a time | 🚗 On a drive to innovate and inspire!"</h2>
 
 ###
-
-<div align="center">
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -61,11 +55,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Amankatare.Amankatare&"  />
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
