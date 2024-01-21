@@ -168,7 +168,7 @@
 
 </span>
 
-<span width="20vdh" height="40">
+<span>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&theme=dark" alt="amankatare" /></p>
 
