@@ -122,11 +122,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman-katare-606367196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-katare-606367196" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/katareaman2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="katareaman2019" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amankatare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankatare" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/katareamscgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/katareamscgc" height="30" width="40" /></a>
-<a href="https://discord.gg/katare#6014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="katare#6014" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-katare-606367196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-katare-606367196" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/katareaman2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="katareaman2019" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/amankatare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankatare" height="50" width="50" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/katareamscgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/katareamscgc" height="50" width="50" /></a>
+<a href="https://discord.gg/katare#6014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="katare#6014" height="50" width="50" /></a>
 </p>
 
 ###
