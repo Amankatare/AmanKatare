@@ -162,7 +162,7 @@
 
 </span>
 
-<span width="20vdh" height="40">
+<span width="20vdw" height="40">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankatare&show_icons=true&theme=dark&locale=en" alt="amankatare" /></p>
 
