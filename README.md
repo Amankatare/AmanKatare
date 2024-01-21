@@ -85,23 +85,23 @@
 ###
 
 <div align="center">
-  <img width="250" height="100" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img width="100" height="100" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
 <div align="center">
-  <img width="250" height="100" src="https://profile-counter.glitch.me/Amankatare/count.svg?"  />
+  <img width="100" height="100" src="https://profile-counter.glitch.me/Amankatare/count.svg?"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img width="100" height="50" src="https://raw.githubusercontent.com/Amankatare/Amankatare/output/snake.svg" alt="Snake animation" />
+<img width="100" height="100" src="https://raw.githubusercontent.com/Amankatare/Amankatare/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img width="100" height="50" src="https://visitor-badge.laobi.icu/badge?page_id=Amankatare.Amankatare&"  />
+  <img width="100" height="100" src="https://visitor-badge.laobi.icu/badge?page_id=Amankatare.Amankatare&"  />
 </div>
 
 ###
