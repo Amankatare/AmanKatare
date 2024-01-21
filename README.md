@@ -117,9 +117,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@Aman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@Aman" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&locale=en&layout=compact" alt="amankatare" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&locale=en&layout=compact" alt="amankatare" width="100%" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankatare&show_icons=true&locale=en" alt="amankatare" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankatare&show_icons=true&locale=en" alt="amankatare" width="100%" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&" alt="amankatare" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&" alt="amankatare" width="100%" /></p>
 
