@@ -96,12 +96,12 @@
 
 <br clear="both">
 
-<img width="250" height="100" src="https://raw.githubusercontent.com/Amankatare/Amankatare/output/snake.svg" alt="Snake animation" />
+<img width="100" height="50" src="https://raw.githubusercontent.com/Amankatare/Amankatare/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img width="250" height="100" src="https://visitor-badge.laobi.icu/badge?page_id=Amankatare.Amankatare&"  />
+  <img width="100" height="50" src="https://visitor-badge.laobi.icu/badge?page_id=Amankatare.Amankatare&"  />
 </div>
 
 ###
