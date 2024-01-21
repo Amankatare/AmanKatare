@@ -158,7 +158,7 @@
 
 <span width="40" height="40">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amankatare" width="35%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amankatare" width="40%" /></p>
 
 </span>
 
