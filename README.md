@@ -106,15 +106,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31kolegjxn3cc6vfxeljgwl6gohu?si=WOvl7bSYSy22pfcMR4dsQg">
-    <img width="250" height="100" src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-
-<h3 align="left">Support:</h3>
+<h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@Aman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@Aman" /></a></p><br><br>
 
 <span width="20" height="40">
