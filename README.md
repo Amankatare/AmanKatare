@@ -158,19 +158,19 @@
 
 <span width="20" height="40">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&locale=en&layout=compact" alt="amankatare" width="60%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amankatare" width="50" /></p>
 
 </span>
 
 <span width="20" height="40">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankatare&show_icons=true&locale=en" alt="amankatare" width="60%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankatare&show_icons=true&theme=dark&locale=en" alt="amankatare" /></p>
 
 </span>
 
 <span width="20" height="40">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&" alt="amankatare" width="60%" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&theme=dark" alt="amankatare" /></p>
 
 </span>
 
