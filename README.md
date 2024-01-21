@@ -139,13 +139,10 @@
   <img width="200" height="50" src="https://profile-counter.glitch.me/Amankatare/count.svg?"  />
 </div>
 
-###
+### Snake Animation
 
-<br clear="both">
+![Snake Animation](https://raw.githubusercontent.com/Amankatare/Amankatare/output/snake.svg)
 
-<img width="200" height="50" src="https://raw.githubusercontent.com/Amankatare/Amankatare/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img width="200" height="50" src="https://visitor-badge.laobi.icu/badge?page_id=Amankatare.Amankatare&"  />
