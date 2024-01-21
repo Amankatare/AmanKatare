@@ -158,11 +158,11 @@
 
 <span width="40" height="40">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amankatare" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amankatare" width="50" /></p>
 
 </span>
 
-<span width="20vdw" height="40">
+<span width="20" height="40">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amankatare&show_icons=true&theme=dark&locale=en" alt="amankatare" /></p>
 
