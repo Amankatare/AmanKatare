@@ -156,7 +156,7 @@
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@Aman"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@Aman" /></a></p><br><br>
 
-<span width="20vdh" height="40">
+<span width="40" height="40">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amankatare&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="amankatare" /></p>
 
