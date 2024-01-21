@@ -170,7 +170,7 @@
 
 <span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&theme=dark" alt="amankatare" width="50%" height="25%"   /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amankatare&theme=dark" alt="amankatare" width="40%" height="25%"   /></p>
 
 </span>
 
