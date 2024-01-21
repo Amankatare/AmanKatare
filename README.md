@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amankatare" alt="amankatare" /></a> </p>
 
 
-- 🌱 I’m currently learning **Asp.Net**
+- 🌱 I’m currently learning **MicroSoft Asp .Net**
 
 - 📫 How to reach me **katareaman2019@gmail.com**
 
@@ -73,6 +73,17 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aman-katare-606367196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-katare-606367196" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/katareaman2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="katareaman2019" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amankatare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankatare" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/katareamscgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/katareamscgc" height="30" width="40" /></a>
+<a href="https://discord.gg/katare#6014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="katare#6014" height="30" width="40" /></a>
+</p>
+
+###
+
 <div align="center">
   <img width="250" height="100" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -101,15 +112,6 @@
   </a>
 </div>
 
-###
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aman-katare-606367196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-katare-606367196" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/katareaman2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="katareaman2019" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amankatare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amankatare" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/katareamscgc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/katareamscgc" height="30" width="40" /></a>
-<a href="https://discord.gg/katare#6014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="katare#6014" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Support:</h3>
